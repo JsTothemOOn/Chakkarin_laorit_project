@@ -7,4 +7,6 @@ Timeseries econometrics course
 
 Aim to study the relationship between the short-term interest rate, the long-term interest rate, real GDP, and real money supply in Australia from 1963Q3 to 2018Q1 using the econometrics model as VARs and testing for the validity of the expectation hypothesis of the term structure of interest rates in a same data.
 
+Numerical method course(2022/2)
+
 FYI: I will upload other projects soon. 
